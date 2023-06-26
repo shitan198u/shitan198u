@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shitanshu-shivam-a2844b1a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shitanshu-shivam-a2844b1a2/" height="30" width="40" /></a>
 <a href="https://kaggle.com/shitanshushivam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shitanshushivam" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@linuxpackaps6143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@linuxpackaps6143" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@linuxpackaps6143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@linuxpackaps6143" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/shitanshu198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shitanshu198" height="30" width="40" /></a>
 </p>
 
