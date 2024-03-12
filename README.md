@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shitan198u&label=Profile%20views&color=0e75b6&style=flat" alt="shitan198u" /> </p>
 
-- 🌱 I’m currently learning **FastAPI,DL,AIML,GenAI,Hugging Face**
+- 🌱 I’m currently learning **DL, GenAI, Langchain**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shitan198u](https://github.com/shitan198u)
 
