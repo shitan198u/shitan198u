@@ -6,7 +6,7 @@
 </p>
 
 - I’m currently focused on **Cloud Infrastructure and GenAI**.
-- My projects have garnered **55+ and 100+ stars** on GitHub.
+- Solving problems through Software.
 - I'm open to new opportunities and collaborations.
 - How to reach me: **shiva.shitanshu2018@gmail.com**
 
