@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shitanshu Shivam</h1>
-<h3 align="center">Linux Engineer | Azure Specialist | Open-Source Contributor</h3>
+<h3 align="center">Linux Engineer | Open-Source Contributor</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shitan198u&label=Profile%20views&color=0e75b6&style=flat" alt="shitan198u" /> 
