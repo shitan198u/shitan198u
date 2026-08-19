@@ -99,9 +99,3 @@ Linux Systems Engineer and Open-Source Software Developer specializing in system
   <img src="https://github-readme-stats-fast.vercel.app/api?username=shitan198u&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7&bg_color=1a1b26" height="175" alt="GitHub Stats" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shitan198u&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26" height="175" alt="Top Languages" />
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shitan198u&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b26" width="95%" alt="Activity Graph" />
-</div>
